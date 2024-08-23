@@ -33,5 +33,5 @@ void loop() {
   digitalWrite(pinRojo, LOW);
   digitalWrite(pinAmarillo, HIGH);
   digitalWrite(pinVerde, LOW);
-  delay(2000); 
+  delay(2000); gi
 }
