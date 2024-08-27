@@ -14,4 +14,4 @@ Welcome to the **IoT Academic Space** repository!
 To clone this repository and start working locally, run:
 
 ```bash
-git clone https://github.com/your-username/iot-academic-space.git
+git clone https://github.com/hdzambrano05/iot.git
